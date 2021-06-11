@@ -1,6 +1,6 @@
 # Moshi Moshi, I'm [Aman](github.com/barenzimo) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-## Hi I'm Aman Tiwari a Full Stack Web Developer. I Spend most of time coding outstanding projects or learning cool things.
+### **Hi I'm Aman Tiwari a Full Stack Web Developer. I Spend most of time coding outstanding projects or learning cool things.**
 
 :mailbox: Reach me out!
 
@@ -18,12 +18,16 @@
 - 😄 Pronouns: ... baren/he/him.
 - 🎸 Fun fact: I'm a fingerstyle guitarist and vocalist.
 
+<br/>
+<br/>
+<br/>
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-e535ab?style=for-the-badge&labelColor=black&logo=SQL.js&logoColor=e535ab)](#)
+<br/><br/><br/>
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=barenzimo&count_private=true&show_icons=true&theme=dracula&top-langs?username=barenzimo)](https://github.com/barenzimo/github-readme-stats)
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barenzimo&layout=compact&theme=dracula)](https://github.com/barenzimo/github-readme-stats)
