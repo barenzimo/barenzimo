@@ -26,7 +26,7 @@
 
 #### I build with
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links takes you to repositories h -->
 
 <p align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
